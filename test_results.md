@@ -1,4 +1,3 @@
-# Thực hành lab 4: System promt, Function calling, LangGraph
 ## Kết quả 10 test case gồm 5 test case gốc và 5 bonus:
 ### Test 1 – Direct Answer (Không cần tool)
 
